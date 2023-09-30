@@ -10,7 +10,7 @@ The Super Store Sales Power BI Project is a comprehensive business intelligence 
 <b>Product Performance Metrics:   </b> Evaluate product performance, identify best-sellers, and optimize inventory levels.<br>
 <b>Customer Segmentation:</b>   Understand customer behavior and segment them for targeted marketing efforts.<br>
 
-<<h2>Why Use Super Store Sales Power BI Project?</h2>
+<h2>Why Use Super Store Sales Power BI Project?</h2>
 This Power BI solution provides a powerful toolset for retail businesses to harness the full potential of their sales data. By leveraging interactive visualizations and advanced analytics, businesses can optimize their operations, improve customer satisfaction, and drive revenue growth.
 <br>
   
