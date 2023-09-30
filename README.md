@@ -1,6 +1,6 @@
 # SUPER STORE SALES DASHBOARD
 
-<h>Overview</h2>
+<h2>Overview</h2>
 The Super Store Sales Power BI Project is a comprehensive business intelligence solution tailored for retail businesses. This Power BI application empowers businesses to efficiently analyze sales data, gain actionable insights, and make data-driven decisions.
 
 <H1>Key Features:</H1>
