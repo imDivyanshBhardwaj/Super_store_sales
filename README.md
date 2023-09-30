@@ -18,6 +18,6 @@ This Power BI solution provides a powerful toolset for retail businesses to harn
 Currently, this project is not open for external contributions. However, feel free to use this as a template or adapt it for your specific business needs.
 
 <h2>Contact </h2>
-For any questions or feedback, please contact the project maintainer:
-Name: Divyansh Bhardwaj
-Email: imdivyansh24@gmail.com
+For any questions or feedback, please contact the project maintainer:<br>
+Name: Divyansh Bhardwaj<br>
+Email: imdivyansh24@gmail.com <br>
